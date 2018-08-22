@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\!readme.txt">
+    <Files>
+      <File FileName="Assets\Skripte\GlobalScript.cs" Line="29" Column="1" />
+      <File FileName="Assets\Skripte\KopterScript.cs" Line="41" Column="17" />
+      <File FileName="Assets\Skripte\LevelCreate.cs" Line="9" Column="30" />
+      <File FileName="Assets\Skripte\StartScript.cs" Line="17" Column="30" />
+      <File FileName="Assets\!readme.txt" Line="18" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
